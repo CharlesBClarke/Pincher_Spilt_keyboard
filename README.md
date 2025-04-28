@@ -5,9 +5,6 @@ The **Pincher Split Keyboard** is a work-in-progress split mechanical keyboard w
 The design philosophy is based on the natural motion of the human thumb — it's more comfortable for thumbs to pinch toward the fingers rather than push forward in the same direction.
 
 ---
-
-(Feel free to add sections below)
-
 ## Features
 
 - Split ergonomic layout (3 rows × 5 columns per side)
