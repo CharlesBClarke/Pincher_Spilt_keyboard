@@ -139,7 +139,7 @@
 		(uuid "459d801a-a80d-4910-afef-fc12fce8b8fb")
 	)
 	(embedded_fonts no)
-	(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
+	(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
 		(offset
 			(xyz 0 0 0)
 		)

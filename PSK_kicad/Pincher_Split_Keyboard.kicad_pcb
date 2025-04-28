@@ -251,7 +251,7 @@
 			(net 2 "SW1")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "962bd1ee-4be2-450f-94b8-43a736216ab2")
+			(uuid "b557026b-8481-4bfa-a214-22b23fe225bb")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -415,7 +415,7 @@
 			(net 12 "SW14")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "15338d93-8145-4f30-897d-ae1124785334")
+			(uuid "019cf90f-a7b5-4452-85cc-8f864cb94290")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -435,7 +435,7 @@
 		(uuid "348af593-2aed-4708-94e4-99247edda4ed")
 		(at 200.659278 95.540723 -45)
 		(property "Reference" "U2"
-			(at 0 14.2 315)
+			(at 0 14.2 135)
 			(layer "Dwgs.User")
 			(uuid "26525010-1691-4f4f-bd0b-fbabaa8fa89c")
 			(effects
@@ -446,7 +446,7 @@
 			)
 		)
 		(property "Value" "TRRS"
-			(at 0 -5.6 315)
+			(at 0 -5.6 135)
 			(layer "F.Fab")
 			(uuid "8ce8c285-2665-4476-9738-e642461835a7")
 			(effects
@@ -457,7 +457,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 315)
+			(at 0 0 135)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "efe6eaad-562f-4fa0-9f02-41d4102ebcdc")
@@ -469,7 +469,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 315)
+			(at 0 0 135)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b05a6c3-b75a-4313-b92c-1ec20f6b9fe9")
@@ -555,7 +555,7 @@
 			(uuid "116d8756-c6de-4f80-aca6-65ac601638ef")
 		)
 		(fp_text user "Tip"
-			(at 0 10 315)
+			(at 0 10 135)
 			(layer "F.Fab")
 			(uuid "1ef049bf-f57b-44f4-8b49-f849a6ffdb6e")
 			(effects
@@ -566,7 +566,7 @@
 			)
 		)
 		(fp_text user "Ring1"
-			(at 0 6.249999 315)
+			(at 0 6.249999 135)
 			(layer "F.Fab")
 			(uuid "36cbf2d5-e98a-4847-a591-543ddfcc8247")
 			(effects
@@ -577,7 +577,7 @@
 			)
 		)
 		(fp_text user "Ring2"
-			(at 0 3.25 315)
+			(at 0 3.25 135)
 			(layer "F.Fab")
 			(uuid "7ac41f5d-f254-475c-a4e5-3b6bd77ab54d")
 			(effects
@@ -588,7 +588,7 @@
 			)
 		)
 		(fp_text user "Sleeve"
-			(at 0.25 11.4 315)
+			(at 0.25 11.4 135)
 			(layer "F.Fab")
 			(uuid "c41bed36-d8df-4ec9-82ee-587468e1962b")
 			(effects
@@ -657,7 +657,7 @@
 			(uuid "063cb729-ac4a-4f75-b5d7-43e614e3ad93")
 		)
 		(embedded_fonts no)
-		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Components.3dshapes/TRRS_PJ-320A.step"
+		(model "${KIPRJMOD}/3D_Models/TRRS_PJ-320A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -665,7 +665,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 180)
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -818,10 +818,10 @@
 			(net 5 "SW4")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a8cc4dc9-5a49-4839-aec9-e23701ba566c")
+			(uuid "4412585d-b78f-4173-9b89-ab3efd58f502")
 		)
 		(embedded_fonts no)
-		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
+		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -982,7 +982,7 @@
 			(net 4 "SW3")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a48edbe3-1d54-4f2e-b49e-4b1135b4c9c8")
+			(uuid "b31094f6-db6b-47a5-9e76-b4ffa0d754a0")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -1366,15 +1366,15 @@
 			(uuid "6607c51e-1b86-4e2b-b313-605a0e93e663")
 		)
 		(embedded_fonts no)
-		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_MCU.3dshapes/RP2040_Zero.step"
+		(model "${KIPRJMOD}/3D_Models/RP2040_Zero.step"
 			(offset
-				(xyz 0 0.6 0)
+				(xyz 0 0.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 -90)
+				(xyz -0 -0 -90)
 			)
 		)
 	)
@@ -1527,10 +1527,10 @@
 			(net 15 "SW10")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9e94c360-aef6-4482-b346-c715bba7edf0")
+			(uuid "e96966eb-ffe6-4b48-9944-3cc847db4723")
 		)
 		(embedded_fonts no)
-		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
+		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1691,7 +1691,7 @@
 			(net 9 "SW9")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8afe15aa-b5d3-40c5-993e-a22656543380")
+			(uuid "f693911c-92bf-4f87-8737-fdef904dc2b1")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -1855,7 +1855,7 @@
 			(net 8 "SW8")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "48a07101-3a73-4e2b-b063-2274652d5385")
+			(uuid "07e37c82-e168-4128-924a-6093877cc11b")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -2019,7 +2019,7 @@
 			(net 13 "SW15")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "167071e4-a894-4add-a5d3-47787fa0264f")
+			(uuid "c1c9d6d9-1a66-4310-b3ef-01c4f0bbc6c9")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -2183,7 +2183,7 @@
 			(net 7 "SW7")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4ad78c5c-d8d5-4765-b121-a79a91476194")
+			(uuid "75dbb4bd-dbe9-4ea5-9bea-eda75ac91872")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -2347,7 +2347,7 @@
 			(net 14 "SW11")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "31ebf47e-afee-428a-92c7-175c373482da")
+			(uuid "9dc478d3-630a-41dd-af63-e07ca2b5f707")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -2511,7 +2511,7 @@
 			(net 6 "SW5")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a6396649-7d8f-4e19-8c28-dbb26cfce57d")
+			(uuid "c89a59f5-feff-4208-ae47-4e0a341d804b")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -2675,7 +2675,7 @@
 			(net 16 "SW16")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "d33ef6c7-fd4d-41ca-90b5-cbfae1a1ea62")
+			(uuid "6a262811-a8e5-48dc-b2c8-447d5fe13fca")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -2839,7 +2839,7 @@
 			(net 3 "SW2")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "16a725d5-86ad-4f23-813f-a406efd1ec0f")
+			(uuid "7313a250-2115-4fca-9417-1458b88e2820")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -3003,7 +3003,7 @@
 			(net 10 "SW12")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b29008e5-74de-483e-a9ab-5574a66aeae0")
+			(uuid "58f67958-048d-45b8-af4f-c204572926ff")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -3167,7 +3167,7 @@
 			(net 11 "SW13")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "3307910b-3d91-4ec8-b5ca-dfd097d0101d")
+			(uuid "477c234e-3434-4750-842a-73db17792fb6")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -3335,7 +3335,7 @@
 			(net 17 "TMB1")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "f260ea2d-d0a2-4df3-a9ab-7463f281c8de")
+			(uuid "6858d844-f047-4517-a5e0-661cae3f9eb5")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -3503,7 +3503,7 @@
 			(net 18 "TMB2")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9462c269-065b-42a8-8e8f-8715afef9ae4")
+			(uuid "f387b52a-73ab-4e61-bef2-3ac579eb65a1")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
@@ -3671,7 +3671,7 @@
 			(net 19 "TMB3")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9bd140ea-c776-45d6-9ed2-51a1c2b751dd")
+			(uuid "6a8ee6af-398a-4265-b22c-fa2f17deedc2")
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
