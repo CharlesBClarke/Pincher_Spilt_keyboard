@@ -44,7 +44,4 @@ The design philosophy is based on the natural motion of the human thumb — it's
 - Create assembly guide and documentation
 - Make board more compact for travel.
 
-## License
-
-*(Add license info here)*
 
