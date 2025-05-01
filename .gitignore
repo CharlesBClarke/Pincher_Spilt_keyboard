@@ -4,11 +4,19 @@ PSK_kicad/*.bak
 PSK_kicad/*.tmp
 PSK_kicad/*.autosave
 PSK_kicad/_autosave-*
+FrontPlate/*~
+FrontPlate/*.bak
+FrontPlate/*.tmp
+FrontPlate/*.autosave
+FrontPlate/_autosave-*
 
 # Ignore backup folders
 PSK_kicad/*-backups/
 PSK_kicad/better-backups/
 PSK_kicad/production/backups/
+FrontPlate/*-backups/
+FrontPlate/better-backups/
+FrontPlate/production/backups/
 
 # Ignore exported fabrication and production files
 PSK_kicad/*.zip
@@ -28,32 +36,63 @@ PSK_kicad/*.gm1
 PSK_kicad/*.gko
 PSK_kicad/*.net
 PSK_kicad/*.ipc
+FrontPlate/*.zip
+FrontPlate/*.csv
+FrontPlate/*.xml
+FrontPlate/*.bom
+FrontPlate/*.pos
+FrontPlate/*.drl
+FrontPlate/*.gbr
+FrontPlate/*.gtl
+FrontPlate/*.gbl
+FrontPlate/*.gts
+FrontPlate/*.gbs
+FrontPlate/*.gto
+FrontPlate/*.gbo
+FrontPlate/*.gm1
+FrontPlate/*.gko
+FrontPlate/*.net
+FrontPlate/*.ipc
 
 # Ignore simulation files
 PSK_kicad/*.log
 PSK_kicad/*.raw
 PSK_kicad/*.wav
+FrontPlate/*.log
+FrontPlate/*.raw
+FrontPlate/*.wav
 
 # Ignore cache and project local settings
 PSK_kicad/fp-info-cache
 PSK_kicad/*.kicad_prl
 PSK_kicad/*.kicad_autosave
 PSK_kicad/*.kicad_sch-bak
+FrontPlate/fp-info-cache
+FrontPlate/*.kicad_prl
+FrontPlate/*.kicad_autosave
+FrontPlate/*.kicad_sch-bak
 
 # Ignore 3D model folders (unless you manually manage them)
 PSK_kicad/3D_Models/
 PSK_kicad/3dmodels/
+FrontPlate/3D_Models/
+FrontPlate/3dmodels/
 
 # Ignore STEP and mechanical export files
 PSK_kicad/*.step
 PSK_kicad/*.stp
 PSK_kicad/*.iges
 PSK_kicad/*.igs
+FrontPlate/*.step
+FrontPlate/*.stp
+FrontPlate/*.iges
+FrontPlate/*.igs
 
 # Ignore fabrication plugin configs
 PSK_kicad/fabrication-toolkit-options.json
-
+FrontPlate/fabrication-toolkit-options.json
 
 # OS specific junk
 .DS_Store
+Thumbs.db
 Thumbs.db
