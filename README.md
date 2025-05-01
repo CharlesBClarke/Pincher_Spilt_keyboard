@@ -1,8 +1,8 @@
 # Pincher\_Split\_keyboard (WIP)
 
-The **Pincher Split Keyboard** is a work-in-progress split mechanical keyboard with a twist: the thumb cluster is positioned underneath the main keys.
+The **Pincher Split Keyboard** is a work-in-progress split mechanical keyboard with the thumb cluster positioned underneath the main keys.
 
-The design philosophy is based on the natural motion of the human thumb — it's more comfortable for thumbs to pinch toward the fingers rather than push forward in the same direction.
+The design philosophy is based on the natural motion of the human thumb — it's more comfortable for thumbs to pinch toward the fingers rather than push forward in the same direction as the fingers.
 
 ---
 
@@ -17,7 +17,6 @@ The design philosophy is based on the natural motion of the human thumb — it's
 
 - Improve thumb ergonomics
 - Encourage more natural hand positioning
-- Support both tented and flat setups
 
 ## Status
 
@@ -44,5 +43,6 @@ The design philosophy is based on the natural motion of the human thumb — it's
 - Explore hotswap socket compatibility
 - Create assembly guide and documentation
 - Make board more compact for travel.
+- Support ULP if possible
 
 
