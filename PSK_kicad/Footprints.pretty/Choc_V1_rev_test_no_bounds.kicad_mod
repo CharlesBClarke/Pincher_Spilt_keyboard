@@ -150,4 +150,15 @@
 			(xyz 0 0 0)
 		)
 	)
+	(model "${KIPRJMOD}/3D_Models/keycap.step"
+		(offset
+			(xyz 0 0 8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
