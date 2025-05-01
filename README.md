@@ -30,6 +30,7 @@ The design philosophy is based on the natural motion of the human thumb — it's
 ![Render 1](Images/render1.png)
 ![Render 2](Images/render2.png)
 ![Render 3](Images/render3.png)
+![Render 4](Images/render4.png)
 
 ## Build Instructions
 
