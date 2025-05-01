@@ -206,7 +206,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 48.26 83.82 0)
 			(effects
 				(font
@@ -274,7 +274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc_footprint_exp"
 			(at 96.52 69.85 0)
 			(effects
 				(font
@@ -342,7 +342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 81.28 83.82 0)
 			(effects
 				(font
@@ -410,7 +410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 48.26 97.79 0)
 			(effects
 				(font
@@ -478,7 +478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 97.79 83.82 0)
 			(effects
 				(font
@@ -546,7 +546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 114.3 69.85 0)
 			(effects
 				(font
@@ -614,7 +614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 63.5 97.79 0)
 			(effects
 				(font
@@ -682,7 +682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 113.03 97.79 0)
 			(effects
 				(font
@@ -750,7 +750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 96.52 97.79 0)
 			(effects
 				(font
@@ -818,7 +818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc_footprint_exp"
 			(at 63.5 69.85 0)
 			(effects
 				(font
@@ -886,7 +886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 80.01 97.79 0)
 			(effects
 				(font
@@ -954,7 +954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc_footprint_exp"
 			(at 48.26 69.85 0)
 			(effects
 				(font
@@ -1022,7 +1022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc_footprint_exp"
 			(at 80.01 69.85 0)
 			(effects
 				(font
@@ -1090,7 +1090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 64.77 83.82 0)
 			(effects
 				(font
@@ -1158,7 +1158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:PLATE_choc_footprint"
+		(property "Footprint" "Footprints:PLATE_choc"
 			(at 116.84 83.82 0)
 			(effects
 				(font
