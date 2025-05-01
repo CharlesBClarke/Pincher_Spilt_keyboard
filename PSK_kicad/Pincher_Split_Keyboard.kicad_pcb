@@ -251,7 +251,7 @@
 			(net 2 "SW1")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "962bd1ee-4be2-450f-94b8-43a736216ab2")
+			(uuid "a0482c43-827f-4533-9fa6-12f0928e3421")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -426,7 +426,7 @@
 			(net 12 "SW14")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "15338d93-8145-4f30-897d-ae1124785334")
+			(uuid "5461c48a-a51a-43b2-bd47-b9d666178d12")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -992,7 +992,7 @@
 			(net 5 "SW4")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a8cc4dc9-5a49-4839-aec9-e23701ba566c")
+			(uuid "a3595481-4e1d-4603-a638-da0573ddb19c")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -1167,7 +1167,7 @@
 			(net 4 "SW3")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a48edbe3-1d54-4f2e-b49e-4b1135b4c9c8")
+			(uuid "7c4983d7-7638-4612-8c31-2aa22ab79660")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -1723,7 +1723,7 @@
 			(net 15 "SW10")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9e94c360-aef6-4482-b346-c715bba7edf0")
+			(uuid "f115cbf1-cf0b-4623-b61b-02c0d34499e0")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -1898,7 +1898,7 @@
 			(net 9 "SW9")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8afe15aa-b5d3-40c5-993e-a22656543380")
+			(uuid "6ccd1f36-8c0b-4bf9-a8ba-43ecc82d1943")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -2073,7 +2073,7 @@
 			(net 8 "SW8")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "48a07101-3a73-4e2b-b063-2274652d5385")
+			(uuid "e673320c-3037-4662-9484-5317840002c4")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -2248,7 +2248,7 @@
 			(net 13 "SW15")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "167071e4-a894-4add-a5d3-47787fa0264f")
+			(uuid "2068e922-1286-4372-9e75-ff4033b097b5")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -2423,7 +2423,7 @@
 			(net 7 "SW7")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4ad78c5c-d8d5-4765-b121-a79a91476194")
+			(uuid "ff95806c-1170-4480-97f2-bdbfc502cdca")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -2598,7 +2598,7 @@
 			(net 14 "SW11")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "31ebf47e-afee-428a-92c7-175c373482da")
+			(uuid "e1caab45-96b9-423c-9886-c1b9c123377e")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -2773,7 +2773,7 @@
 			(net 6 "SW5")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a6396649-7d8f-4e19-8c28-dbb26cfce57d")
+			(uuid "a214b8b0-7f39-417c-91a4-8e504b905b5a")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -2948,7 +2948,7 @@
 			(net 16 "SW16")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "d33ef6c7-fd4d-41ca-90b5-cbfae1a1ea62")
+			(uuid "fb9ee9c5-a5ee-43d8-886a-d4f520f94e62")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -3123,7 +3123,7 @@
 			(net 3 "SW2")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "16a725d5-86ad-4f23-813f-a406efd1ec0f")
+			(uuid "09b13b68-0d4c-42f6-80dc-3da81dddc370")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -3298,7 +3298,7 @@
 			(net 10 "SW12")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b29008e5-74de-483e-a9ab-5574a66aeae0")
+			(uuid "38fc3680-ab28-4c33-8624-aca62cec137f")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -3473,7 +3473,7 @@
 			(net 11 "SW13")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "3307910b-3d91-4ec8-b5ca-dfd097d0101d")
+			(uuid "318fc5b9-5ce2-4cb4-ad52-54663e4c5ac4")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -3652,7 +3652,7 @@
 			(net 17 "TMB1")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "f260ea2d-d0a2-4df3-a9ab-7463f281c8de")
+			(uuid "e6bb7eff-f93e-4af0-bb9e-087958f25a19")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -3831,7 +3831,7 @@
 			(net 18 "TMB2")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9462c269-065b-42a8-8e8f-8715afef9ae4")
+			(uuid "92a89d05-a7eb-46c3-bea0-7cbe50917693")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
@@ -4010,7 +4010,7 @@
 			(net 19 "TMB3")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9bd140ea-c776-45d6-9ed2-51a1c2b751dd")
+			(uuid "92da7c66-7015-4d38-b245-68d404729a87")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D_Models/Choc_V1.step"
